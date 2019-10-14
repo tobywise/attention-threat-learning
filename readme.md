@@ -4,6 +4,8 @@ Toby Wise, Jochen Michely, Peter Dayan & Raymond J Dolan
 
 _PLoS Computational Biology_, 2019
 
+[https://github.com/tobywise/attention-threat-learning.git](https://github.com/tobywise/attention-threat-learning.git)
+
 ## Code
 
 Analyses for this project are contained within Jupyter notebooks (in the `/notebooks` directory). Python 2.7 was used for all these analysese, and the code will most likely not run smoothly with Python 3.
