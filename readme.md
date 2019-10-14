@@ -4,7 +4,7 @@ Toby Wise, Jochen Michely, Peter Dayan & Raymond J Dolan
 
 _PLoS Computational Biology_, 2019
 
-[https://github.com/tobywise/attention-threat-learning.git](https://github.com/tobywise/attention-threat-learning.git)
+[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007341)
 
 ## Code
 
